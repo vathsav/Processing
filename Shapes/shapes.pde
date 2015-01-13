@@ -45,7 +45,7 @@ void displayShapes() {
   //vertex 2
   vertex( 100, -100, -100);
   vertex( 100, 100, -100);
-  vertex( 0, 0, 100);
+  vertex( 0, 0, 100);a
   //vertex 3
   vertex( 100, 100, -100);
   vertex(-100, 100, -100);
