@@ -1,2 +1,2 @@
 # Processing
-You will find all my Processing sketches in this repository.
+You'll find my Processing Sketches in this repository.
